@@ -1,0 +1,39 @@
+.course-time-line-card-container {
+  width: 100%;
+}
+.courseTitle-duration-container {
+  display: flex;
+  justify-content: space-between;
+}
+.courseTitle-head {
+  font-family: Roboto;
+  color: #1e293b;
+}
+.AiFillClockCircle-icon {
+  margin-right: 5px;
+  color: #1e293b;
+}
+.description-para {
+  color: #1e293b;
+  font-family: Roboto;
+}
+.tagsList-container {
+  margin-left: 0px;
+  padding-left: 0px;
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+.tagsList-item-container {
+  background-color: #0967d2;
+  width: 25%;
+  font-weight: bold;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  padding: 5px;
+  border-radius: 5px;
+  color: #1e293b;
+  font-size: 13px;
+  font-family: Roboto;
+}

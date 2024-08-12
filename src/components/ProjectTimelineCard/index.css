@@ -1,0 +1,27 @@
+.project-time-line-card {
+  width: 100%;
+}
+.project-image {
+  min-width: 50%;
+  max-width: 100%;
+}
+.projectTitle-duration-container {
+  display: flex;
+  justify-content: space-between;
+}
+.projectTitle-heading {
+  font-family: Roboto;
+  color: #1e293b;
+}
+.duration-para {
+  color: #1e293b;
+  font-family: Roboto;
+  align-self: center;
+}
+
+.anchor-tag {
+  color: #0967d2;
+  font-family: Roboto;
+  text-decoration: none;
+  font-weight: bold;
+}
